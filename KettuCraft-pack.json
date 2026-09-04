@@ -1,8 +1,0 @@
-{
-  "spec": 1,
-  "name": "KettuCraft Pixel",
-  "description": "Minecraft-inspired pixel font for Kettu. Custom original pixel design; includes Latin, Cyrillic, digits and common symbols.",
-  "main": {
-    "*": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/KettuCraft-Pixel.ttf"
-  }
-}
